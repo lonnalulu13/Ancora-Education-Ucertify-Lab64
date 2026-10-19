@@ -1,6 +1,11 @@
 # Ancora-Education-Ucertify-Lab64
 # Scanning the Network
 
+> **Original Lab Source**
+> 
+> This lab was available through:
+>
+> [https://ancoraeducation.ucertify.com/app/?func=navigate_items&item_sequence=17]
 
 ## Objective of the Lab
 In this lab, you will learn to scan the network. Command used tcpdump: Network scanning is a procedure for identifying active devices on a network by employing a feature or features in the network protocol to signal devices and awaits a response. tcpdump allows you to specify network packets that are either using some port X as source or destination.
